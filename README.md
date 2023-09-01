@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Salwa1505
+- 👋 Hi, I’m @Salwa1505 salwa!!
 - 👀 I’m interested in web development and designing 
 - 🌱 I’m currently learning Frontend and backend skills
 - 💞️ I’m looking to collaborate on projects and internships related to web technology 
